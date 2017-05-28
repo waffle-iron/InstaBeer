@@ -1,0 +1,19 @@
+.login.header {
+    padding: 100px 10px 100px 10px;
+}
+
+.login.header form {
+    width: 60%;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.login.header form input {
+    margin-bottom: 10px;
+}
+
+@media (max-width: 700px) {
+    .login.header form {
+        width: 80%;
+    }
+}
