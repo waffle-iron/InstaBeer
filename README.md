@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/neecholaus/InstaBeer.png?label=ready&title=Ready)](https://waffle.io/neecholaus/InstaBeer?utm_source=badge)
 # InstaBeer
 
 Instabeer is a beer delivery service, mobile-ready, Angular powered application.
